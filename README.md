@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
     <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
     <img src="https://img.shields.io/badge/EasyEDA-1565C0?style=flat-square&logoColor=white" alt="EasyEDA"/>
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+    <img src="https://img.shields.io/badge/Rhino-801010?style=flat-square&logo=rhinoceros&logoColor=white" alt="Rhino"/>
   </p>
 </div>
 
