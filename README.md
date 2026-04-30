@@ -16,16 +16,25 @@
 
 ---
 
-## Projects
+## ✦ Projects
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| [**Orion**](https://github.com/Micro-Mood/Orion) | Self-hosted AI assistant that reads/writes files, runs commands, and never forgets — $1.50/month server + free LLM | Python · FastAPI · Vue 3 · MCP |
-| [**AutomateX**](https://github.com/Micro-Mood/AutomateX) | AI-powered Windows automation engine with two-phase tool-calling — saves ~90% tokens | Python · Electron · MCP |
-| [**Axon**](https://github.com/Micro-Mood/Axon) | Lightweight MCP server with 27 tools — files, search, commands, web. JSON-RPC 2.0 over TCP | Python |
-| [**Pocket**](https://github.com/Micro-Mood/Pocket) | ESP32-C3 low-power emoji pendant with animated GIF expressions, shake-to-wake, and USB-C charging | ESP32 · Arduino · EasyEDA |
-| [**MiNi-Microphone**](https://github.com/Micro-Mood/MiNi-Microphone) | Ultra-compact digital MEMS microphone module (MP34DT05TR-A, PDM output) — open-source hardware | EasyEDA · Hardware |
-| [**Stock-demo-trading-server**](https://github.com/Micro-Mood/Stock-demo-trading-server) | China A-share simulated trading system with real-time quotes, T+1 rules, and order matching engine | Python · Flask |
+```diff
++ Orion             self-hosted AI assistant · reads/writes files · never forgets   [Python · FastAPI · Vue 3 · MCP]
++ AutomateX        AI-powered Windows automation · two-phase tool-calling · ~90% tokens saved   [Python · Electron · MCP]
++ Axon             lightweight MCP server · 27 tools · JSON-RPC 2.0 over TCP        [Python]
++ Pocket           ESP32-C3 emoji pendant · animated GIFs · shake-to-wake · USB-C   [ESP32 · Arduino · EasyEDA]
+~ MiNi-Microphone  ultra-compact MEMS mic module · MP34DT05TR-A · PDM output        [EasyEDA · Hardware]
+~ Stock-demo       China A-share simulated trading · real-time quotes · T+1         [Python · Flask]
+```
+
+<sub align="center">
+  <a href="https://github.com/Micro-Mood/Orion">Orion</a> ·
+  <a href="https://github.com/Micro-Mood/AutomateX">AutomateX</a> ·
+  <a href="https://github.com/Micro-Mood/Axon">Axon</a> ·
+  <a href="https://github.com/Micro-Mood/Pocket">Pocket</a> ·
+  <a href="https://github.com/Micro-Mood/MiNi-Microphone">MiNi-Microphone</a> ·
+  <a href="https://github.com/Micro-Mood/Stock-demo-trading-server">Stock-demo-trading-server</a>
+</sub>
 
 ---
 
