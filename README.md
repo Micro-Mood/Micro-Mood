@@ -21,12 +21,12 @@
 ## ✦ Projects
 
 ```diff
-+ Orion             self-hosted AI assistant · reads/writes files · never forgets   [Python · FastAPI · Vue 3 · MCP]
-+ AutomateX        AI-powered Windows automation · two-phase tool-calling · ~90% tokens saved   [Python · Electron · MCP]
-+ Axon             lightweight MCP server · 27 tools · JSON-RPC 2.0 over TCP        [Python]
-+ Pocket           ESP32-C3 emoji pendant · animated GIFs · shake-to-wake · USB-C   [ESP32 · Arduino · EasyEDA]
-~ MiNi-Microphone  ultra-compact MEMS mic module · MP34DT05TR-A · PDM output        [EasyEDA · Hardware]
-~ Stock-demo       China A-share simulated trading · real-time quotes · T+1         [Python · Flask]
++ Orion             self-hosted AI assistant · reads/writes files · never forgets
++ AutomateX        AI-powered Windows automation · two-phase tool-calling · ~90% tokens saved
++ Axon             lightweight MCP server · 27 tools · JSON-RPC 2.0 over TCP
++ Pocket           ESP32-C3 emoji pendant · animated GIFs · shake-to-wake · USB-C
+~ MiNi-Microphone  ultra-compact MEMS mic module · MP34DT05TR-A · PDM output
+~ Stock-demo       China A-share simulated trading · real-time quotes · T+1
 ```
 
 <sub align="center">
@@ -43,12 +43,8 @@
 ## ✦ Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Micro-Mood&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF8A00&icon_color=FF3D00&text_color=c9d1d9&ring_color=FF8A00" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micro-Mood&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FF8A00&text_color=c9d1d9" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Micro-Mood&hide_border=true&background=0d1117&stroke=0d1117&ring=FF8A00&fire=FF3D00&currStreakLabel=FF8A00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Micro-Mood&show_icons=true&theme=default&hide_border=true&title_color=FF8C00&icon_color=FF4500&text_color=333" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micro-Mood&layout=compact&hide_border=true&title_color=FF8C00&text_color=333" alt="Top languages"/>
 </div>
 
 ---
