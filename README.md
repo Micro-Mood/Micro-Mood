@@ -7,7 +7,9 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
     <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
     <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
     <img src="https://img.shields.io/badge/EasyEDA-1565C0?style=flat-square&logoColor=white" alt="EasyEDA"/>
@@ -21,7 +23,7 @@
 ## ✦ Projects
 
 ```diff
-+ Orion             self-hosted AI assistant · reads/writes files · never forgets
++ Orion            self-hosted AI assistant · reads/writes files · never forgets
 + AutomateX        AI-powered Windows automation · two-phase tool-calling · ~90% tokens saved
 + Axon             lightweight MCP server · 27 tools · JSON-RPC 2.0 over TCP
 + Pocket           ESP32-C3 emoji pendant · animated GIFs · shake-to-wake · USB-C
