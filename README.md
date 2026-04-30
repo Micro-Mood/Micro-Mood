@@ -40,17 +40,20 @@
 
 ---
 
-## Activity
+## ✦ Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Micro-Mood&show_icons=true&theme=default&hide_border=true&title_color=FF8C00&icon_color=FF4500&text_color=333" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micro-Mood&layout=compact&hide_border=true&title_color=FF8C00&text_color=333" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Micro-Mood&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF8A00&icon_color=FF3D00&text_color=c9d1d9&ring_color=FF8A00" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micro-Mood&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FF8A00&text_color=c9d1d9" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micro-Mood&theme=minimal&hide_border=true&color=FF4500&line=FF8C00&point=FFD700&area=true&area_color=FFD700" alt="Contribution graph" width="92%"/>
+  <img src="https://streak-stats.demolab.com?user=Micro-Mood&hide_border=true&background=0d1117&stroke=0d1117&ring=FF8A00&fire=FF3D00&currStreakLabel=FF8A00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micro-Mood&theme=react-dark&hide_border=true&bg_color=0d1117&color=FF8A00&line=FF3D00&point=FFD84D&area=true&area_color=FF8A00&custom_title=Contribution%20pulse" alt="Contribution graph" width="92%"/>
+</div>
 ---
 
 <div align="center">
