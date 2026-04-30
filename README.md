@@ -51,9 +51,6 @@
   <img src="https://streak-stats.demolab.com?user=Micro-Mood&hide_border=true&background=0d1117&stroke=0d1117&ring=FF8A00&fire=FF3D00&currStreakLabel=FF8A00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micro-Mood&theme=react-dark&hide_border=true&bg_color=0d1117&color=FF8A00&line=FF3D00&point=FFD84D&area=true&area_color=FF8A00&custom_title=Contribution%20pulse" alt="Contribution graph" width="92%"/>
-</div>
 ---
 
 <div align="center">
