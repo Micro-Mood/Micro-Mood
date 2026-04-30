@@ -1,19 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" role="img" aria-label="CoCandy">
 <defs><style>.p{shape-rendering:crispEdges}</style></defs>
 <rect class="p" x="127" y="89" width="14" height="14" fill="#FF4800" opacity="0.60"/>
-<rect class="p" x="127" y="187" width="14" height="14" fill="#FF4800" opacity="0.28"/>
 <rect class="p" x="155" y="89" width="14" height="14" fill="#FF5000" opacity="0.58"/>
 <rect class="p" x="169" y="103" width="14" height="14" fill="#FF5400" opacity="0.34"/>
-<rect class="p" x="197" y="-37" width="14" height="14" fill="#FF5C00" opacity="0.67"/>
 <rect class="p" x="211" y="117" width="14" height="14" fill="#FF6000" opacity="0.38"/>
 <rect class="p" x="239" y="117" width="14" height="14" fill="#FF6800" opacity="0.59"/>
-<rect class="p" x="295" y="-23" width="14" height="14" fill="#FF7800" opacity="0.41"/>
 <rect class="p" x="295" y="159" width="14" height="14" fill="#FF7800" opacity="0.40"/>
 <rect class="p" x="309" y="61" width="14" height="14" fill="#FF7C00" opacity="0.54"/>
 <rect class="p" x="309" y="103" width="14" height="14" fill="#FF7C00" opacity="0.42"/>
 <rect class="p" x="323" y="159" width="14" height="14" fill="#FF8000" opacity="0.32"/>
 <rect class="p" x="337" y="131" width="14" height="14" fill="#FF8400" opacity="0.39"/>
-<rect class="p" x="379" y="187" width="14" height="14" fill="#FF8F00" opacity="0.68"/>
 <rect class="p" x="421" y="47" width="14" height="14" fill="#FF9900" opacity="0.49"/>
 <rect class="p" x="463" y="61" width="14" height="14" fill="#FFA300" opacity="0.45"/>
 <rect class="p" x="575" y="103" width="14" height="14" fill="#FFBF00" opacity="0.59"/>
@@ -39,7 +35,6 @@
 <rect class="p" x="351" y="117" width="14" height="14" fill="#FF8800" opacity="0.46"/>
 <rect class="p" x="351" y="61" width="14" height="14" fill="#FF8800" opacity="0.42"/>
 <rect class="p" x="407" y="61" width="14" height="14" fill="#FF9600" opacity="0.72"/>
-<rect class="p" x="407" y="61" width="14" height="14" fill="#FF9600" opacity="0.85"/>
 <rect class="p" x="449" y="61" width="14" height="14" fill="#FFA000" opacity="0.43"/>
 <rect class="p" x="379" y="145" width="14" height="14" fill="#FF8F00" opacity="0.48"/>
 <rect class="p" x="351" y="159" width="14" height="14" fill="#FF8800" opacity="0.71"/>
@@ -50,21 +45,16 @@
 <rect class="p" x="435" y="117" width="14" height="14" fill="#FF9D00" opacity="0.66"/>
 <rect class="p" x="463" y="47" width="14" height="14" fill="#FFA300" opacity="0.54"/>
 <rect class="p" x="477" y="47" width="14" height="14" fill="#FFA700" opacity="0.65"/>
-<rect class="p" x="463" y="47" width="14" height="14" fill="#FFA300" opacity="0.41"/>
-<rect class="p" x="477" y="47" width="14" height="14" fill="#FFA700" opacity="0.47"/>
-<rect class="p" x="519" y="47" width="14" height="14" fill="#FFB100" opacity="0.39"/>
 <rect class="p" x="491" y="89" width="14" height="14" fill="#FFAA00" opacity="0.41"/>
 <rect class="p" x="589" y="19" width="14" height="14" fill="#FFC200" opacity="0.81"/>
 <rect class="p" x="631" y="75" width="14" height="14" fill="#FFCC00" opacity="0.69"/>
 <rect class="p" x="547" y="89" width="14" height="14" fill="#FFB800" opacity="0.58"/>
 <rect class="p" x="547" y="61" width="14" height="14" fill="#FFB800" opacity="0.35"/>
-<rect class="p" x="547" y="61" width="14" height="14" fill="#FFB800" opacity="0.38"/>
 <rect class="p" x="589" y="145" width="14" height="14" fill="#FFC200" opacity="0.59"/>
 <rect class="p" x="631" y="131" width="14" height="14" fill="#FFCC00" opacity="0.45"/>
 <rect class="p" x="645" y="131" width="14" height="14" fill="#FFD000" opacity="0.84"/>
 <rect class="p" x="631" y="89" width="14" height="14" fill="#FFCC00" opacity="0.45"/>
 <rect class="p" x="659" y="89" width="14" height="14" fill="#FFD300" opacity="0.56"/>
-<rect class="p" x="659" y="187" width="14" height="14" fill="#FFD300" opacity="0.78"/>
 <rect class="p" x="127" y="47" width="14" height="14" fill="#FF4800"/>
 <rect class="p" x="141" y="47" width="14" height="14" fill="#FF4C00"/>
 <rect class="p" x="155" y="47" width="14" height="14" fill="#FF5000"/>
