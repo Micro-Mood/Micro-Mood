@@ -42,15 +42,6 @@
 
 ---
 
-## ✦ Activity
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Micro-Mood&show_icons=true&theme=default&hide_border=true&title_color=FF8C00&icon_color=FF4500&text_color=333" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micro-Mood&layout=compact&hide_border=true&title_color=FF8C00&text_color=333" alt="Top languages"/>
-</div>
-
----
-
 <div align="center">
   <sub>Building things that are just a bit too ambitious.</sub>
 </div>
